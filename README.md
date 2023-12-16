@@ -1,6 +1,13 @@
 # TimeSeries-tensorflow
 A project from dicoding Machine Learning Intermediate Class with data Time Series
 
+## Dataset
+- https://www.kaggle.com/datasets/varpit94/apple-stock-data-updated-till-22jun2021/data
+- this is apple stock dataset
+- currency is in USD
+- available at daily level
+- updated till 2021
+
 ## Criteria
 - free dataset with the minimum of 1000 sample
 - must use LSTM
