@@ -1,5 +1,5 @@
-# TimeSeries-tensorflow
-A project from dicoding Machine Learning Intermediate Class with data Time Series
+# TimeSeries-APPLE-Stock-Forecast
+A project from dicoding Machine Learning Intermediate Class with Time Series data
 
 ## Dataset
 - https://www.kaggle.com/datasets/varpit94/apple-stock-data-updated-till-22jun2021/data
