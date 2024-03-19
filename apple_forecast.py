@@ -140,6 +140,7 @@ ax = y_test.plot(**plot_params, label="Actual Test")
 ax = y_pred.plot(ax=ax, label="Predict Train")
 ax = y_fore.plot(ax=ax, color="C3", label="Predict Test")
 ax.legend()
+ax.set_title("Apple Stock Forecast")
 
 ax = y_test.plot(**plot_params, label="Actual", legend=True)
 _ = y_fore.plot(ax=ax, color="C3", label="Prediction", legend=True)
