@@ -1,9 +1,15 @@
 # TimeSeries-APPLE-Stock-Forecast
 A project from dicoding Machine Learning Intermediate Class with Time Series data
 
-![trend_forecast](trend_forecast.png)
+## Traditional Approach
+![trend_forecast](images/trend_forecast.png)
 
-![forecast](forecast.png)
+![forecast](images/forecast.png)
+
+## Neural Networks Approach
+![nn_train_forecast](images/nn_train_forecast.png)
+
+![nn_test_forecast](images/nn_test_forecast.png)
 
 ## Dataset
 - https://www.kaggle.com/datasets/varpit94/apple-stock-data-updated-till-22jun2021/data
